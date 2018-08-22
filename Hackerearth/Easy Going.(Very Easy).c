@@ -7,7 +7,7 @@ int main()
         int sum1=0;
         int sum2=0;
         scanf("%d %d",&n,&m);
-        int array[n];
+        int array[n]; //if we use daynamic memory allocation approach here ,that's programme's speed wiil little bit rise  than before.
         for(k=0;k<n;k++){
             scanf("%d",&array[k]);
         }
