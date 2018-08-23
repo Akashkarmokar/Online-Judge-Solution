@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+    float a[1000],b[1000],d,e ,f;
+    scanf("%f %f",&a[0],&b[0]);
+    scanf("%f %f",&a[1],&b[1]);
+    e = (a[1]-a[0]);
+    f = (b[0]-b[1]);
+    d =sqrt(e*e + f*f );
+    printf("%.4f\n",d);
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
