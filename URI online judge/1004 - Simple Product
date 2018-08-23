@@ -1,0 +1,21 @@
+#include <stdio.h>
+ 
+int main() {
+    
+    int a,b,prod;
+    scanf("%d %d",&a,&b);
+    prod = a * b ;
+    printf("PROD = %d\n",prod);
+ 
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
