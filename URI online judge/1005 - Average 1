@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main()
+{
+    float a,b,c;
+    scanf(" %f %f",&a,&b);
+    c = (a*3.5+b*7.5)/11.0;
+    printf("MEDIA = %.5f\n",c);
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
