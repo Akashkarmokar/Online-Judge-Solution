@@ -20,3 +20,4 @@ int main()
 }
 
 Note: IT does not compile in C++14 .gets function removed from C++14 . Thats code for  C++11.
+        and in some online judge also work it .
