@@ -1,0 +1,20 @@
+#include<stdio.h>
+#
+int main()
+{
+    int x;
+    scanf("%d",&x);
+    printf("%d minutos\n",x*2);
+    return 0;
+
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
