@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int a,b,c,d;
+    scanf("%d%d%d%d",&a,&b,&c,&d);
+    printf("DIFERENCA = %d\n",(a*b-c*d));
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
