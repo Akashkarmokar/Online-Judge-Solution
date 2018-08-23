@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int x;
+    float  y;
+    scanf("%d",&x);
+    scanf("%f",&y);
+    printf("%.3f km/l\n",x/y);
+    
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
