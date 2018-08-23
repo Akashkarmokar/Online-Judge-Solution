@@ -1,0 +1,21 @@
+#include <stdio.h>
+double pai = 3.14159;
+int main ()
+{
+    int t;
+    double tt;
+    scanf("%d",&t);
+    tt = ((4/3.0)*pai*t*t*t);
+    printf("VOLUME = %.3lf\n",tt);
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
