@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main()
+{
+    int x,y;
+    float  z;
+    scanf("%d %d",&x,&y);
+    z = ((x*y)/12.0);
+    printf("%.3f\n",z);
+    return 0;
+}
+/* 
+*   Chant Hare Krishna mohamontra and be happy . 
+*
+*             Akash Karmokar 
+*   Computer Science and engineering Department 
+*             38th Batch
+* Metropolitan University,Sylhet,Bangladesh.
+* fb:https://www.facebook.com/akashcsemu
+*
+*/
