@@ -20,7 +20,7 @@ void remove(string &s,  string c){
         cout<<"-1"<<endl;
         exit (0);
     }
-    s.erase(0,position+1);
+    s.erase(0,position+1); //delete positon+1 value from the 0 index ;
 }
 int main()
 {
