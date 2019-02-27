@@ -11,10 +11,11 @@ Note : Although ,i upload code after AC.but if you find any batter solution you 
                                                
                                            
                                        
-                                              O        O    
+                                              O        O
+                                            0 00 0   0 00  0
                                               O        O
                                                    
-                                        _         '|        _    
+                                        _         ==        _    
                                           _              _     
                                              ____________
                                                              
