@@ -1,6 +1,6 @@
 /*
 	Problem solved by Akash Karmokar Aditto
-	Metropolitan Universtiy,Bangladesh.
+	Metropolitan University,Bangladesh.
 	Department of Computer Science and Engineering
 */
 #include<bits/stdc++.h>
