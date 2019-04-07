@@ -3,7 +3,7 @@
             Department Of Computer Science and Engineering
             Metropolitan University,Sylhet,Bangladesh.
 */
-
+// Problem solved By : Deque STL (Standard Temple Libray from C++ library ) .
 
 #include <bits/stdc++.h>
 using namespace std;
