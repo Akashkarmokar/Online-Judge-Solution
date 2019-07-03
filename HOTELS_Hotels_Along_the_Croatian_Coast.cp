@@ -1,3 +1,5 @@
+// ALgorithm : Kadane's algorithm for finding a subarray of contiguous element for maximum sum . 
+
 #include <bits/stdc++.h>
 #define ll long long 
 using namespace std;
@@ -21,7 +23,7 @@ int main()
     for(int i = 1 ;i<n ;i++)
     {
         curr_max = max(arr[i],curr_max+arr[i]);
-        // thats the problem basic
+        // thats segments the problem basic
         while(curr_max>=m)
         {
             curr_max-=arr[st++];
