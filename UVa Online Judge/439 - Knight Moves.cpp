@@ -1,7 +1,7 @@
 /*
     Problem solved By:        Akash Karmokar    Email: akashcsemu@gmail.com
                     Department of Computer science and technology
-                    Metropolitan University,sylhet,Dhaka.
+                    Metropolitan University,sylhet,Bangladesh.
                     
 */
 
